@@ -1,3 +1,9 @@
 #Larry Plotter y El Bucle Filosofal
 
 El niño huérfano **Larry** vive con sus tios que lo tratan bastante mal (le hacen usar *Internet Explorer*).
+
+Tiene unas *Google Glass* redondas y una cicatriz de un *USB* en la frente.
+
+Un día apara **Neo**, el de *Matriz* y se lo lleva a una escuela de hacking.
+
+
